@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andy Lu
 
-## I'm majoring in Computer Science @ the University of Arizona
+# I'm majoring in Computer Science @ the University of Arizona
 
 
 
