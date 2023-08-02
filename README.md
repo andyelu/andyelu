@@ -2,7 +2,9 @@
 
 ## I'm majoring in Computer Science @ the University of Arizona
 
-##⚡Projects⚡
+
+###⚡Projects⚡
+
 ## GeekAssist - https://github.com/andyelu/GeekAssist
 ## Auto-YT-to-Spotify - https://github.com/andyelu/Auto-YT-to-Spotify
 
