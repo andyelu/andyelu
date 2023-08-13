@@ -2,16 +2,6 @@
 
 ### I'm majoring in Computer Science @ the University of Arizona
 
-
-
-
-
-
-### ⚡Projects⚡
-
-### GeekAssist - https://github.com/andyelu/GeekAssist
-### Auto-YT-to-Spotify - https://github.com/andyelu/Auto-YT-to-Spotify
-
 <!--
 **andyelu/andyelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
