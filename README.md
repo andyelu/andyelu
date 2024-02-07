@@ -3,7 +3,7 @@ I'm a sophomore computer science student at the University of Arizona. I'm passi
 
 # 🚀 What I'm Up To:
 - Researching Object Detection models, using technologies such as PyTorch, Keras, OpenCV
-- Developing my Unity skills in preparation for [MLH Global Hack Week](https://ghw.mlh.io/events/games)
+- Sharpening my Unity skills in preparation for [MLH Global Hack Week: Game Week](https://ghw.mlh.io/events/games)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyelu) 
