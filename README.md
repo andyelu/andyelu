@@ -2,8 +2,7 @@
 I'm a sophomore computer science student at the University of Arizona. I'm passionate about applying and extending my skills in full-stack and game development.
 
 # 🚀 What I'm Up To:
-- Researching Object Detection models, using technologies such as PyTorch, Keras, OpenCV
-- Sharpening my Unity skills in preparation for [MLH Global Hack Week: Game Week](https://ghw.mlh.io/events/games)
+- Researching regression models to address overcrowding issues at the UofA rec centers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyelu) 
