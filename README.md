@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm a sophomore computer science student at the University of Arizona. I'm passionate about applying and extending my skills in full-stack and game development.
+I'm a sophomore computer science student at the University of Arizona. I'm passionate about low-level programming and game development
 
 # 🚀 What I'm Up To:
-- Researching regression models to address overcrowding issues at the UofA rec centers.
+- Currently working on a retro-3D horror game!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andyelu) 
