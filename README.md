@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore computer science student at the University of Arizona. I'm passionate about low-level programming and game development
+I'm a junior computer science student at the University of Arizona. I'm passionate about low-level programming and game development
 
 # 🚀 What I'm Up To:
 - Currently working on a retro-3D horror game!
