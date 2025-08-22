@@ -1,7 +1,8 @@
 # 💫 About Me:
-I'm a junior computer science student at the University of Arizona. I'm passionate about low-level programming and game development
+I'm a senior computer science student at the University of Arizona. I'm passionate about fullstack development, low-level programming, and game development.
 
 # 🚀 What I'm Up To:
+- Leveling up my DSA skills.
 - Currently working on a retro-3D horror game!
 
 ## 🌐 Socials:
